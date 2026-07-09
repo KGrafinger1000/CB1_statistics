@@ -21,3 +21,10 @@ Statistical analysis workflows for CB1 receptor affinity (Ki) and potency (EC50)
 Analyses were performed in Python using Jupyter Notebook.
 
 Required packages are listed within the notebooks.
+
+## Update of files
+updated version of files CB1_Ki_LMM and replicates_Ki_checked_for_statistics; 
+
+changes were made during the Revision 1 process
+
+performed on 9/7/2026
