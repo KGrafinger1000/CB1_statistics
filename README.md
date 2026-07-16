@@ -2,6 +2,15 @@
 
 Statistical analysis workflows for CB1 receptor affinity (Ki) and potency (EC50) datasets.
 
+This repository accompanies the publication:
+
+**Grafinger KE., et al.**
+*Do assay parameters affect the inter-assay comparability of cannabinoid CB₁ receptor affinity and activation measurements?*
+*Toxicology and Applied Pharmacology*, 2026.
+publication DOI: https://doi.org/10.1016/j.taap.2026.117945
+repository DOI: 10.5281/zenodo.21389247
+
+
 ## Files
 
 - `CB1_Ki_LMM.ipynb`
